@@ -2,5 +2,6 @@
   <Folder Name="/Solution Items/">
     <File Path="README.md" />
   </Folder>
+  <Project Path="TB5.WebAPI.Database/TB5.WebAPI.Database.csproj" Id="1f7a45e9-8ada-40e2-b365-653c22eb4273" />
   <Project Path="TB5.WebAPI/TB5.WebAPI.csproj" />
 </Solution>
