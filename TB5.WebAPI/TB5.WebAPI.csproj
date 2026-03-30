@@ -14,8 +14,4 @@
     <ProjectReference Include="..\TB5.WebAPI.Database\TB5.WebAPI.Database.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>
